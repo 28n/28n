@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=28n&hide=php)](https://github.com/28n)
+
 <!--
 **28n/28n** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
